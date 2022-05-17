@@ -329,6 +329,23 @@ header {
   animation: dots 1s steps(5, end) infinite;
 }
 
+.mint-padding {
+  padding-top: 4rem;
+}
+
+.logo {
+  width: 80%;
+  display: block;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.curve {
+  border-radius: 5%;
+}
+
 @keyframes dots {
   0%,
   20% {
