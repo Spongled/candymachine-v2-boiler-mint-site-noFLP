@@ -145,7 +145,7 @@ export const publicSaleSettings: PublicSaleSettings = {
   // date('29 2021 00:00:00 GMT')
 
   //Title and Description
-  title: "Sale is LIVE!",
+  title: "Stealth mint is LIVE 🦎🤫",
   desc: "Mint your reptile and join the prairie.",
 
   //Enable Custom HTML
