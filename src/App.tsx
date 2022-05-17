@@ -65,9 +65,7 @@ const App = () => {
       <div className="content-wrapper mint-padding">
       <img src={NFTLogo} className="logo" />
         <header className="" id="link1">
-          <div style={{ padding: "0 24px 0 24px 0" }}>
             <img src={showcase} className="logo curve" />
-          </div>
           <div>
             <ThemeProvider theme={theme}>
               <ConnectionProvider endpoint={endpoint}>
